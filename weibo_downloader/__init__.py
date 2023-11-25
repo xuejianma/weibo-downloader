@@ -1,0 +1,1 @@
+from .weibo_downloader import WeiboDownloader, get_weibo_posts_by_name
